@@ -1,6 +1,6 @@
 // กำหนด URL ของ API
 var scripturl = '/api';
-var owner1 = "ฝ่ายบริหารทั่วไป";
+var owner1 = "ฝ่ายบริหารงานทั่วไป";
 var owner2 = "สำนักสาธารณสุขและสิ่งแวดล้อม";
 var owner = owner1 + "\n" + owner2;
 
