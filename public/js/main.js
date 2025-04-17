@@ -1,7 +1,8 @@
 // กำหนด URL ของ API
 var scripturl = '/api';
-var owner = 'ฝ่ายบริหารงานทั่วไป';
-var owner = 'สำนักสาธารณสุขและสิ่งแวดล้อม ';
+var owner1 = "ฝ่ายบริหารทั่วไป";
+var owner2 = "สำนักสาธารณสุขและสิ่งแวดล้อม";
+var owner = owner1 + "\n" + owner2;
 
 // ตัวแปรสำหรับเก็บข้อมูลโปรไฟล์และพิกัด
 var profile = null;
